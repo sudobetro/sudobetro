@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I love coding, and Programming is in my blood.
+I love code, and Programming is my blood.
 <img align="right" alt="Coding" width="400" height="200" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"></img>
 
 * 🌍  I'm based in Remotely
@@ -12,8 +12,8 @@ I love coding, and Programming is in my blood.
 * ✉️  You can contact me at [mrbwire52@gmail.com](mailto:mrbwire52@gmail.com)
 * 🚀  I'm currently working on [Machin3](http://github.com)
 * 🧠  I'm learning I'm learning Swift, Webflow, and Adobe After Effect.
-* 🤝  I'm open to collaborating on Other Developer.
-* ⚡  I'm funny.
+* 🤝  I'm open to collaborating on I'm open to collaborate on Other web Developments.
+* ⚡  I'm a nickname sudobetro.
 
 <a href="https://www.x.com/sudobetro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sudobetro?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -39,6 +39,6 @@ src="https://img.shields.io/twitter/follow/sudobetro?logo=twitter&style=for-the-
 
 <a href="http://www.github.com/sudobetro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudobetro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/sudobetro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sudobetro&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+// <a href="http://www.github.com/sudobetro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sudobetro&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/sudobetro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobetro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+// <a href="https://github.com/sudobetro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobetro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
