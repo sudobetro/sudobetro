@@ -12,8 +12,8 @@ I love code, and Programming is my blood.
 * ✉️  You can contact me at [mrbwire52@gmail.com](mailto:mrbwire52@gmail.com)
 * 🚀  I'm currently working on [Machin3](http://github.com)
 * 🧠  I'm learning I'm learning Swift, Webflow, and Adobe After Effect.
-* 🤝  I'm open to collaborating on I'm open to collaborate on Other web Developments.
-* ⚡  I'm a nickname sudobetro.
+* 🤝  I'm open to collaborating on Other Developer.
+* ⚡  I'm funny.
 
 <a href="https://www.x.com/sudobetro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sudobetro?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
