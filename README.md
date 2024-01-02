@@ -3,15 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Developer
 --------------------
-<h6>I Love Code</h6>
+<h6>I Love Code</h6><a href="https://www.x.com/sudobetro" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/sudobetro?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sudobetro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudobetro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="sudobetro's GitHub stats" /></a>
-
-<a href="https://www.x.com/sudobetro" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sudobetro?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
