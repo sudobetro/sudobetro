@@ -3,12 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Developer
 --------------------
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh; text-align: center;">
-        <a href="http://www.github.com/sudobetro">
-            <img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=sudobetro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="sudobetro's GitHub stats" />
-        </a>
-        <h6 style="margin-top: 10px;">I Love Code</h6>
-    </div>
 <h6>I Love Code</h6>
 
 <b>My GitHub Stats</b>
