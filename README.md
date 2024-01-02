@@ -4,18 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sudobetro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudobetro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="sudobetro's GitHub stats" /></a>
+
 I love code.
 <img align="right" alt="Coding" width="400" height="200" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"></img>
 
 <a href="https://www.x.com/sudobetro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sudobetro?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/sudobetro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudobetro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="sudobetro's GitHub stats" /></a>
 
 ### Skills
 
